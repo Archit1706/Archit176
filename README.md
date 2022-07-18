@@ -20,7 +20,7 @@ Skills: HTML | CSS | JavaScript | Node.js | C | C++ | Python | My SQL | Mongo DB
 
 ### My Projects
 
-##### Web Projects
+#### Web Projects
 
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
@@ -31,7 +31,7 @@ Simon Game | HTML, CSS, JS | - | [link](https://archit1706.github.io/The-Simon-G
 Weather Today | HTML, CSS, JS | Node.js | [link]() | [link](https://github.com/Archit1706/Weather-Today)
 Daily Newsletter Signup | HTML, CSS, Bootstrap, JS | Node.js | [link](https://salty-hollows-02401.herokuapp.com/) | [link](https://github.com/Archit1706/Daily-Newsletter-SignUp)
 
-##### Python Projects
+#### Python Projects
 
 Web App | Concept / Libraries Used | Repo
 ------- | ----------- | :--:
