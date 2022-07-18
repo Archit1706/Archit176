@@ -1,11 +1,19 @@
-### Hello everyone 👋
+### Hi there 👋, my name is Archit Rathod
+#### I am TE IT Student, Learner, Web Developer
+I am learning web development and building projects using HTML, CSS, JS and Node.js. I am also well eloquent in Python Programming.
+I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day. 
+I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. And that's me!
 
-- 👨‍💻 I'm currently building some cool projects using Node.js.
-- 💻 I'm currently learning back-end web development tecnologies.
-- 🙇‍♂️ I'm looking to collaborate on any project in web dev domain
-- 🏡 You can reach me at : architrathod77@gmail.com
-- ⏳ I believe *'Time is not the main thing, its the only thing'*
+Skills: HTML | CSS | JavaScript | Node.js | C | C++ | Python | My SQL | Mongo DB | Git | Github | Heroku | Postman
 
+- 🔭 I’m currently working on Backend Projects 
+- 🌱 I’m currently learning Backend technologies 
+- 👯 I’m looking to collaborate on web development projects 
+- 📫 How to reach me: architrathod77@gmail.com 
+- 😄 Pronouns: He / Him / His 
+  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Projects
 
@@ -30,4 +38,23 @@ Proctor It! | OpenCV, Tkinter, MySQL | [link](https://github.com/Archit1706/PROC
 Pomodoro Technque Timer | Tkinter | [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)
 Indian States Game | Tkinter, Pandas | [link](https://github.com/Archit1706/India-States-Game)
 Pong Game | OOPS, Tkinter | [link](https://github.com/Archit1706/Pong-Game)
+
+                      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Archit1706) 
+
+### Contact Me
+<!-- <a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a> -->
+<a href="https://discordapp.com/users/795287895681925151/">
+  <img align="left" alt="Archit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/ArchitRathod_17">
+  <img align="left" alt="Archit Rathod | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/archit-rathod">
+  <img align="left" alt="Archit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
