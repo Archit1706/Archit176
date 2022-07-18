@@ -39,7 +39,12 @@ Pomodoro Technque Timer | Tkinter | [link](https://github.com/Archit1706/Pomodor
 Indian States Game | Tkinter, Pandas | [link](https://github.com/Archit1706/India-States-Game)
 Pong Game | OOPS, Tkinter | [link](https://github.com/Archit1706/Pong-Game)
 
-                      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true)  
+
+### Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true)  
+
+### Github Activity Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Archit1706) 
 
