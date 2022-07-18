@@ -28,3 +28,5 @@ Hirst Painting | Tkinter | - | [link](https://github.com/Archit1706/Hirst-Painti
 Mail Merger | File Handling | - | [link](https://github.com/Archit1706/Mail-Merger)
 Proctor It! | OpenCV, Tkinter | MySQL | [link](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator)
 Pomodoro Technque Timer | Tkinter | - | [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)
+Indian States Game | Tkinter, Pandas | - | [link](https://github.com/Archit1706/India-States-Game)
+
