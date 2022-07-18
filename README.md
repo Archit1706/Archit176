@@ -22,11 +22,12 @@ Daily Newsletter Signup | HTML, CSS, Bootstrap, JS | Node.js | [link](https://sa
 
 ##### Python Projects
 
-Web App | Front End | Back End | Repo
-------- | --------- | -------- | :--:
-Hirst Painting | Tkinter | - | [link](https://github.com/Archit1706/Hirst-Painting)
-Mail Merger | File Handling | - | [link](https://github.com/Archit1706/Mail-Merger)
-Proctor It! | OpenCV, Tkinter | MySQL | [link](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator)
-Pomodoro Technque Timer | Tkinter | - | [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)
-Indian States Game | Tkinter, Pandas | - | [link](https://github.com/Archit1706/India-States-Game)
+Web App | Concept / Libraries Used | Repo
+------- | ----------- | :--:
+Hirst Painting | Tkinter | [link](https://github.com/Archit1706/Hirst-Painting)
+Mail Merger | File Handling | [link](https://github.com/Archit1706/Mail-Merger)
+Proctor It! | OpenCV, Tkinter, MySQL | [link](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator)
+Pomodoro Technque Timer | Tkinter | [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)
+Indian States Game | Tkinter, Pandas | [link](https://github.com/Archit1706/India-States-Game)
+Pong Game | OOPS, Tkinter | [link](https://github.com/Archit1706/Pong-Game)
 
