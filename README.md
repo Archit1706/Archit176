@@ -1,5 +1,8 @@
 ### Hi there 👋, my name is Archit Rathod
 #### I am TE IT Student, Learner, Web Developer
+<!--
+![I am TE IT Student, Learner, Web Developer](https://github.com/Archit1706/Archit1706/blob/main/Poster%20Archit%20Rathod.png)
+-->
 I am learning web development and building projects using HTML, CSS, JS and Node.js. I am also well eloquent in Python Programming.
 I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day. 
 I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. And that's me!
@@ -39,7 +42,7 @@ Pomodoro Technque Timer | Tkinter | [link](https://github.com/Archit1706/Pomodor
 Indian States Game | Tkinter, Pandas | [link](https://github.com/Archit1706/India-States-Game)
 Pong Game | OOPS, Tkinter | [link](https://github.com/Archit1706/Pong-Game)
 
-
+<!--
 ### Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true)  
@@ -48,6 +51,7 @@ Pong Game | OOPS, Tkinter | [link](https://github.com/Archit1706/Pong-Game)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Archit1706) 
 
+-->
 ### Contact Me
 <!-- <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
