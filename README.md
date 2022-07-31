@@ -25,7 +25,7 @@ Skills: HTML | CSS | JavaScript | Node.js | C | C++ | Python | My SQL | Mongo DB
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
 Simple Calculator | HTML, CSS, JS, jQuery | - | [link](https://archit1706.github.io/Simple-Calculator/) | [link](https://github.com/Archit1706/Simple-Calculator)
-Dicee | HTML, CSS, JS | - | [link](https://archit1706.github.io/Dicee/) | [link](https://github.com/Archit1706/Dicee)
+Emoji Nation | React JS, CSS | - | - | [link](https://github.com/Archit1706/Emoji-Nation)
 Random Quote Generator | HTML, CSS, JS | - | [link](https://archit1706.github.io/Random-Quote-Generator/) | [link](https://github.com/Archit1706/Random-Quote-Generator)
 Simon Game | HTML, CSS, JS | - | [link](https://archit1706.github.io/The-Simon-Game/) | [link](https://github.com/Archit1706/The-Simon-Game)
 Weather Today | HTML, CSS, JS | Node.js | [link]() | [link](https://github.com/Archit1706/Weather-Today)
