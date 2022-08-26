@@ -7,7 +7,7 @@ I am learning web development and building projects using HTML, CSS, JS and Node
 I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day. 
 I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. And that's me!
 
-Skills: HTML | CSS | JavaScript | Node.js | C | C++ | Python | My SQL | Mongo DB | Git | Github | Heroku | Postman
+Skills: HTML | CSS | JavaScript | Node.js | C | Python | My SQL | Git | Github | Heroku | Postman
 
 - 🔭 I’m currently working on Backend Projects 
 - 🌱 I’m currently learning Backend technologies 
