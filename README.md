@@ -32,7 +32,7 @@ Weather Today | HTML, CSS, JS | Node.js | - | [link](https://github.com/Archit17
 Personal Blog | HTML, CSS, JS | Node.js (Express, EJS) | - | [link](https://github.com/Archit1706/Personal-Blog)
 Daily Newsletter Signup | HTML, CSS, Bootstrap, JS | Node.js | [link](https://salty-hollows-02401.herokuapp.com/) | [link](https://github.com/Archit1706/Daily-Newsletter-SignUp)
 To Do App | React JS, CSS | Node.js, Mongo DB | [link](https://calm-profiterole-70f2a5.netlify.app/) | [link](https://github.com/Archit1706/To-Do-App)
-
+Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tsec.netlify.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
 
 
 #### Python Projects
@@ -46,6 +46,14 @@ Pomodoro Technque Timer | Tkinter | [link](https://github.com/Archit1706/Pomodor
 Indian States Game | Tkinter, Pandas | [link](https://github.com/Archit1706/India-States-Game)
 Pong Game | OOPS, Tkinter | [link](https://github.com/Archit1706/Pong-Game)
 
+
+#### Java Project
+
+Web App | Concept / Libraries Used | Repo
+------- | ----------- | :--:
+Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/Electricity-Billing-System-Mini-Project-Sem3)
+
+
 <!--
 ### Github Stats
 
@@ -57,8 +65,8 @@ Pong Game | OOPS, Tkinter | [link](https://github.com/Archit1706/Pong-Game)
 
 -->
 ### Contact Me
-<!-- <a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<!-- <a href="https://www.instagram.com/">
+  <img align="left" alt="Archit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
 <a href="https://discordapp.com/users/795287895681925151/">
   <img align="left" alt="Archit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
