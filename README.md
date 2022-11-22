@@ -78,5 +78,8 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
 <a href="https://www.linkedin.com/in/archit-rathod">
   <img align="left" alt="Archit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="mailto:architrathod77@gmail.com">
+  <img align="left" alt="Archit's Mail" width="22px" src="assets/mail.svg" />
+</a>
 
 
