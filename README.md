@@ -70,13 +70,13 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
   <img align="left" alt="Archit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
 <a href="https://discordapp.com/users/795287895681925151/">
-  <img align="left" alt="Archit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Archit's Discord" width="22px" src="discord.svg" />
 </a>
 <a href="https://twitter.com/ArchitRathod_17">
-  <img align="left" alt="Archit Rathod | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Archit Rathod | Twitter" width="22px" src="assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/archit-rathod">
-  <img align="left" alt="Archit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Archit's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 <a href="mailto:architrathod77@gmail.com">
   <img align="left" alt="Archit's Mail" width="22px" src="assets/mail.svg" />
