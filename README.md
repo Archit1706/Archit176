@@ -70,7 +70,7 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
   <img align="left" alt="Archit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
 <a href="https://discordapp.com/users/795287895681925151/">
-  <img align="left" alt="Archit's Discord" width="22px" src="discord.svg" />
+  <img align="left" alt="Archit's Discord" width="22px" src="assets/discord.svg" />
 </a>
 <a href="https://twitter.com/ArchitRathod_17">
   <img align="left" alt="Archit Rathod | Twitter" width="22px" src="assets/twitter.svg" />
