@@ -34,7 +34,8 @@ Daily Newsletter Signup | HTML, CSS, Bootstrap, JS | Node.js | [link](https://sa
 To Do App | React JS, CSS | Node.js, Mongo DB | [link](https://calm-profiterole-70f2a5.netlify.app/) | [link](https://github.com/Archit1706/Todo-App)
 Healthy Me! | React JS, Tailwind CSS | Node.js, Mongo DB | - | [link](https://github.com/Archit1706/Codeissance_22_Keyboard-Interrupt)
 Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tsec.netlify.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
-Movie App | React JS, Tailwond CSS | TMDB | [link](https://snack-time.netlify.app/) | [link](https://github.com/Archit1706/Movie-App) 
+Movie App | React JS, Tailwind CSS | TMDB | [link](https://snack-time.netlify.app/) | [link](https://github.com/Archit1706/Movie-App) 
+First Paper | Next JS, Tailwind CSS | ArXiv Dataset | [link](https://first-paper.vercel.app/) | [link](https://github.com/Archit1706/First-Paper) 
 
 #### Python Projects
 
