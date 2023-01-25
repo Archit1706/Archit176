@@ -36,6 +36,7 @@ Healthy Me! | React JS, Tailwind CSS | Node.js, Mongo DB | - | [link](https://gi
 Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tsec.netlify.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
 Moviescape | React JS, Tailwind CSS | TMDB | [link](https://moviescape.netlify.app/) | [link](https://github.com/Archit1706/Movie-App) 
 First Paper | Next JS, Tailwind CSS | ArXiv Dataset | [link](https://first-paper.vercel.app/) | [link](https://github.com/Archit1706/First-Paper) 
+Power Up | React JS, Tailwind CSS | Node JS, Mongo DB | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp) 
 
 #### Python Projects
 
