@@ -59,13 +59,9 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
 
 
 
-### Github Stats
+<!-- ### Github Stats -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true)  
-
-### Github Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Archit1706) 
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true)   -->
 
 
 ### Contact Me
