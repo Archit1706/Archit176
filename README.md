@@ -37,6 +37,7 @@ Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tse
 Moviescape | React JS, Tailwind CSS | TMDB | [link](https://moviescape.netlify.app/) | [link](https://github.com/Archit1706/Movie-App) 
 First Paper | Next JS, Tailwind CSS | ArXiv Dataset | [link](https://first-paper.vercel.app/) | [link](https://github.com/Archit1706/First-Paper) 
 Power Up | React JS, Tailwind CSS | Node JS, Mongo DB | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp) 
+Social Vision | Next Js, Tailwind CSS | Mongo DB, Fast Api, Python | [link](https://network-analysis-weld.vercel.app/) | [link](https://github.com/Archit1706/SocialVision)
 
 #### Python Projects
 
@@ -57,7 +58,7 @@ Web App | Concept / Libraries Used | Repo
 Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/Electricity-Billing-System-Mini-Project-Sem3)
 
 
-<!--
+
 ### Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true)  
@@ -66,7 +67,7 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Archit1706) 
 
--->
+
 ### Contact Me
 <!-- <a href="https://www.instagram.com/">
   <img align="left" alt="Archit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
