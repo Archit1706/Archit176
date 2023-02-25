@@ -25,12 +25,12 @@ Skills: HTML | CSS | JavaScript | Node.js | React.js | C++ | Python | My SQL | G
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
 Simple Calculator | HTML, CSS, JS, jQuery | - | [link](https://archit1706.github.io/Simple-Calculator/) | [link](https://github.com/Archit1706/Simple-Calculator)
-Emoji Nation | React JS, CSS | - | [link](https://emoji-nation.netlify.app/) | [link](https://github.com/Archit1706/Emoji-Nation)
 Random Quote Generator | HTML, CSS, JS | - | [link](https://archit1706.github.io/Random-Quote-Generator/) | [link](https://github.com/Archit1706/Random-Quote-Generator)
 Simon Game | HTML, CSS, JS | - | [link](https://archit1706.github.io/The-Simon-Game/) | [link](https://github.com/Archit1706/The-Simon-Game)
 Weather Today | HTML, CSS, JS | Node.js | [link](https://weather-today.architrathod1.repl.co/) | [link](https://github.com/Archit1706/Weather-Today)
 Personal Blog | HTML, CSS, JS | Node.js (Express, EJS) | [link](https://personal-blog.architrathod1.repl.co/) | [link](https://github.com/Archit1706/Personal-Blog)
 Daily Newsletter Signup | HTML, CSS, Bootstrap, JS | Node.js | [link](https://salty-hollows-02401.herokuapp.com/) | [link](https://github.com/Archit1706/Daily-Newsletter-SignUp)
+Emoji Nation | React JS, CSS | - | [link](https://emoji-nation.netlify.app/) | [link](https://github.com/Archit1706/Emoji-Nation)
 To Do App | React JS, CSS | Node.js, Mongo DB | [link](https://calm-profiterole-70f2a5.netlify.app/) | [link](https://github.com/Archit1706/Todo-App)
 Healthy Me! | React JS, Tailwind CSS | Node.js, Mongo DB | - | [link](https://github.com/Archit1706/Codeissance_22_Keyboard-Interrupt)
 Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tsec.netlify.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
