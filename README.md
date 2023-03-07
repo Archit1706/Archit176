@@ -38,6 +38,7 @@ Moviescape | React JS, Tailwind CSS | TMDB | [link](https://moviescape.netlify.a
 First Paper | Next JS, Tailwind CSS | ArXiv Dataset | [link](https://first-paper.vercel.app/) | [link](https://github.com/Archit1706/First-Paper) 
 Power Up | React JS, Tailwind CSS | Node JS, Mongo DB | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp) 
 Social Vision | Next Js, Tailwind CSS | Mongo DB, Fast Api, Python | [link](https://network-analysis-weld.vercel.app/) | [link](https://github.com/Archit1706/SocialVision)
+The One Finder | Next Js, Tailwind CSS | Mongo DB, Fast Api, Node JS | - | [link](https://github.com/Archit1706/The-One-Finder)
 
 #### Python Projects
 
