@@ -39,6 +39,7 @@ First Paper | Next JS, Tailwind CSS | ArXiv Dataset | [link](https://first-paper
 Power Up | React JS, Tailwind CSS | Node JS, Mongo DB | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp) 
 Social Vision | Next Js, Tailwind CSS | Mongo DB, Fast Api, Python | [link](https://network-analysis-weld.vercel.app/) | [link](https://github.com/Archit1706/SocialVision)
 The One Finder | Next Js, Tailwind CSS | Mongo DB, Fast Api, Node JS | - | [link](https://github.com/Archit1706/The-One-Finder)
+Home Ginie | Next Js, Tailwind CSS | Fast Api, Replit | [link](https://home-ginie.vercel.app/) | [link](https://github.com/Archit1706/Home-Ginie)
 
 #### Python Projects
 
