@@ -1,16 +1,16 @@
-### Hi there 👋, my name is [Archit Rathod](https://archit-rathod.vercel.app/)
+### Hi there 👋, my name is [Archit Rathod](https://www.architrathod.codes/)
 #### I am TE IT Student, Learner, Web Developer
 <!--
 ![I am TE IT Student, Learner, Web Developer](https://github.com/Archit1706/Archit1706/blob/main/Poster%20Archit%20Rathod.png)
 -->
-I am learning web development and building projects using React.Js. I am also well eloquent in C++ and Python Programming.
+I am learning web development and building projects using Nextt.Js. I am also well eloquent in C++ and Python Programming.
 I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day. 
 I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. That's me 😀!
 
 Skills: HTML | CSS | JavaScript | Node.js | React.js | C++ | Python | My SQL | Git | Github | Heroku | Postman | MongoDB | Tailwind CSS
 
 - 🔭 I’m currently working on MERN Projects 
-- 🌱 I’m currently learning React Native technologies 
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on web development projects 
 - 📫 How to reach me: architrathod77@gmail.com 
 - 😄 Pronouns: He / Him / His 
