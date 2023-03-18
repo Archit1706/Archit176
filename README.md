@@ -52,7 +52,7 @@ Proctor It! | OpenCV, Tkinter, MySQL | - | [link](https://github.com/Archit1706/
 Pomodoro Technque Timer | Tkinter | [link](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) | [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)
 Indian States Game | Tkinter, Pandas | [link](https://replit.com/@ArchitRathod1/India-States-Game) | [link](https://github.com/Archit1706/India-States-Game)
 Pong Game | OOPS, Tkinter | [link](https://replit.com/@ArchitRathod1/Pong-Game) | [link](https://github.com/Archit1706/Pong-Game)
-GRE Words App | OOPS, Tkinter | [link](https://replit.com/@ArchitRathod1/GRE-Words-Practice) | [link](https://github.com/Archit1706/GRE-Words-Practice)
+GRE Words App | OOPS, Pandas, Tkinter | [link](https://replit.com/@ArchitRathod1/GRE-Words-Practice) | [link](https://github.com/Archit1706/GRE-Words-Practice)
 
 #### Java Project
 
