@@ -33,10 +33,10 @@ Daily Newsletter Signup | HTML, CSS, Bootstrap, JS | Node.js | [link](https://sa
 Emoji Nation | React JS, CSS | - | [link](https://emoji-nation.netlify.app/) | [link](https://github.com/Archit1706/Emoji-Nation)
 To Do App | React JS, CSS | Node.js, Mongo DB | [link](https://calm-profiterole-70f2a5.netlify.app/) | [link](https://github.com/Archit1706/Todo-App)
 Healthy Me! | React JS, Tailwind CSS | Node.js, Mongo DB | - | [link](https://github.com/Archit1706/Codeissance_22_Keyboard-Interrupt)
-Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tsec.netlify.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
+Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tsec.vercel.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
 Moviescape | React JS, Tailwind CSS | TMDB | [link](https://moviescape.netlify.app/) | [link](https://github.com/Archit1706/Movie-App) 
 First Paper | Next JS, Tailwind CSS | ArXiv Dataset | [link](https://first-paper.vercel.app/) | [link](https://github.com/Archit1706/First-Paper) 
-<!-- Power Up | React JS, Tailwind CSS | Node JS, Mongo DB, API's | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp)  -->
+Power Up | React JS, Tailwind CSS | Node JS, Mongo DB, API's | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp) 
 Social Vision | Next Js, Tailwind CSS | Mongo DB, Fast Api, Python | [link](https://network-analysis-weld.vercel.app/) | [link](https://github.com/Archit1706/SocialVision)
 The One Finder | Next Js, Tailwind CSS | Mongo DB, Fast Api, Node JS | [link](https://the-one-finder.vercel.app/) | [link](https://github.com/Archit1706/The-One-Finder)
 Home Ginie | Next Js, Tailwind CSS | Fast Api, Replit | [link](https://home-ginie.vercel.app/) | [link](https://github.com/Archit1706/Home-Ginie)
