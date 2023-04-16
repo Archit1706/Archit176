@@ -47,7 +47,7 @@ Web App | Front End | Back End | Live Demo | Repo
 Social Vision | Next Js, Tailwind CSS | Mongo DB, Fast Api, Python | [link](https://network-analysis-weld.vercel.app/) | [link](https://github.com/Archit1706/SocialVision)
 The One Finder | Next Js, Tailwind CSS | Mongo DB, Fast Api, Node JS | [link](https://the-one-finder.vercel.app/) | [link](https://github.com/Archit1706/The-One-Finder)
 Home Ginie | Next Js, Tailwind CSS | Fast Api, Replit | [link](https://home-ginie.vercel.app/) | [link](https://github.com/Archit1706/Home-Ginie)
-
+Reflections | Next.js, Tailwind CSS | Fast Api, MongoDB, Prisma | [link](https://reflections-blog.vercel.app/) | [link](https://github.com/Archit1706/Reflections-Blogs)
 
 #### Python Projects
 
