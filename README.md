@@ -36,9 +36,9 @@ Healthy Me! | React JS, Tailwind CSS | Node.js, Mongo DB | - | [link](https://gi
 Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tsec.vercel.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
 Moviescape | React JS, Tailwind CSS | TMDB | [link](https://moviescape.netlify.app/) | [link](https://github.com/Archit1706/Movie-App) 
 First Paper | Next JS, Tailwind CSS | ArXiv Dataset | [link](https://first-paper.vercel.app/) | [link](https://github.com/Archit1706/First-Paper) 
-<!-- Power Up | React JS, Tailwind CSS | Node JS, Mongo DB, API's | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp) -->
+Power Up | React JS, Tailwind CSS | Node JS, Mongo DB, API's | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp)
 Coupon Vault | Next Js, Tailwind CSS | Mongo DB, Fast Api, Node JS | [link](https://coupon-vault.vercel.app/) | [link](https://github.com/Archit1706/Coupon-Vault)
-
+Bid Bazaar | Next Js, Tailwind CSS | Mongo DB, Cloudinary, Node JS, Flask | - | [link](https://github.com/Archit1706/TIAA-Hackathon)
 
 #### ML Based - Web Projects
 
