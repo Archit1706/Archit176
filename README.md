@@ -8,8 +8,11 @@ I am very hardworking, disciplined and consistent at my work. I like reading boo
 I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. That's me 😀!
 
 Scripts / Languages : HTML | Javascript | Typescript(Mid) | C++ | Python 
+
 Tools / Frameworks: Node.js | React.js | Next.js | jQuery | Postman | CSS | Tailwind CSS | Git | Github | Google Analytics
+
 Deployment: Netlify | Heroku | Vercel | AWS 
+
 Databases: My SQL | Mongo DB 
 
 - 🔭 I’m currently working on Next.js Projects 
