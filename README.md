@@ -7,13 +7,13 @@ Currently, I am exploring Machinne Learning and creating Full Stack Projects usi
 I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day. 
 I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. That's me 😀!
 
-Scripts / Languages : HTML | Javascript | Typescript(Mid) | C++ | Python 
+**Scripts / Languages** : HTML | Javascript | Typescript(Mid) | C++ | Python 
 
-Tools / Frameworks: Node.js | React.js | Next.js | jQuery | Postman | CSS | Tailwind CSS | Git | Github | Google Analytics
+**Tools / Frameworks** : Node.js | React.js | Next.js | jQuery | Postman | CSS | Tailwind CSS | Git | Github | Google Analytics
 
-Deployment: Netlify | Heroku | Vercel | AWS 
+**Deployment** : Netlify | Heroku | Vercel | AWS 
 
-Databases: My SQL | Mongo DB 
+**Databases** : My SQL | Mongo DB 
 
 - 🔭 I’m currently working on Next.js Projects 
 - 🌱 I’m currently learning ML 
