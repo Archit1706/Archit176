@@ -71,7 +71,7 @@ Cold Emailing | Flask, HTML | [link](https://cold-emailing.architrathod1.repl.co
 
 #### Java Project
 
-Web App | Concept / Libraries Used | Repo
+Desktop App | Concept / Libraries Used | Repo
 ------- | ----------- | :--:
 Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/Electricity-Billing-System-Mini-Project-Sem3)
 
@@ -86,17 +86,18 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
 <!-- <a href="https://www.instagram.com/">
   <img align="left" alt="Archit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
-<a href="https://discordapp.com/users/795287895681925151/">
-  <img align="left" alt="Archit's Discord" width="22px" src="assets/discord.svg" />
-</a>
-<a href="https://twitter.com/ArchitRathod_17">
-  <img align="left" alt="Archit Rathod | Twitter" width="22px" src="assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/archit-rathod">
   <img align="left" alt="Archit's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 <a href="mailto:architrathod77@gmail.com">
   <img align="left" alt="Archit's Mail" width="22px" src="assets/mail.svg" />
 </a>
+<a href="https://discordapp.com/users/795287895681925151/">
+  <img align="left" alt="Archit's Discord" width="22px" src="assets/discord.svg" />
+</a>
+<a href="https://twitter.com/ArchitRathod_17">
+  <img align="left" alt="Archit Rathod | Twitter" width="22px" src="assets/twitter.svg" />
+</a>
+
 
 
