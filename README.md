@@ -26,7 +26,7 @@ I love to travel to new places and meet new people even though an introvert I am
 #### Web Projects
 
 Web App | Front End | Back End | Live Demo | Repo
-:-----: | :-------: | :------: | :-------: | :--:
+------- | --------- | -------- | :-------: | :--:
 Simple Calculator | HTML, CSS, JS, jQuery | - | [link](https://archit1706.github.io/Simple-Calculator/) | [link](https://github.com/Archit1706/Simple-Calculator)
 Random Quote Generator | HTML, CSS, JS | - | [link](https://archit1706.github.io/Random-Quote-Generator/) | [link](https://github.com/Archit1706/Random-Quote-Generator)
 Simon Game | HTML, CSS, JS | - | [link](https://archit1706.github.io/The-Simon-Game/) | [link](https://github.com/Archit1706/The-Simon-Game)
