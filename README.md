@@ -20,9 +20,6 @@ I love to travel to new places and meet new people even though an introvert I am
 - 👯 I’m looking to collaborate on Fullstack React projects 
 - 📫 How to reach me: architrathod77@gmail.com 
 - 😄 Pronouns: He / Him / His 
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Projects
 
@@ -77,9 +74,14 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
 
 
 
-<!-- ### Github Stats -->
+### Github Stats
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true)   -->
+|                                                              Most Languages Used                                                              |                                          GitHub Stats                                           |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true) |
+
+
+
 
 
 ### Contact Me
