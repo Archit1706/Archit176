@@ -11,9 +11,9 @@ I love to travel to new places and meet new people even though an introvert I am
 
 **Tools / Frameworks** : Node.js | React.js | Next.js | jQuery | Postman | CSS | Tailwind CSS | Git | Github | Google Analytics
 
-**Deployment** : Netlify | Heroku | Vercel | AWS 
+**Deployment** : Netlify | Heroku | Vercel | Google Cloud Platform(GCP)
 
-**Databases** : My SQL | Mongo DB 
+**Databases** : My SQL | Mongo DB | Google BigQuery
 
 - 🔭 I’m currently working on Next.js Projects 
 - 🌱 I’m currently learning ML 
