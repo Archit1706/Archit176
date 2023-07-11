@@ -3,17 +3,24 @@
 <!--
 ![I am TE IT Student, Learner, Web Developer](https://github.com/Archit1706/Archit1706/blob/main/Poster%20Archit%20Rathod.png)
 -->
+
+### About 
+
 Currently, I am exploring Machine Learning and creating Full Stack Projects using Next.Js. I am also well eloquent in C++ and Python Programming.
 I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day. 
 I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. That's me 😀!
 
-**Scripts / Languages** : HTML | Javascript | Typescript(Mid) | C++ | Python 
+### Skills
 
-**Tools / Frameworks** : Node.js | React.js | Next.js | jQuery | Postman | CSS | Tailwind CSS | Git | Github | Google Analytics
+- **Scripts / Languages** : `HTML` | `Javascript` | `Typescript(Mid)` | `C++` | `Python` 
 
-**Deployment** : Netlify | Heroku | Vercel | Google Cloud Platform(GCP)
+- **Tools / Frameworks** : `Node.js` | `React.js` | `Next.js` | `jQuery` | `Postman` | `CSS` | `Tailwind CSS` | `Git` | `Github` 
 
-**Databases** : My SQL | Mongo DB | Google BigQuery
+- **Devops** : `Netlify` | `Heroku` | `Vercel` | `Google Cloud Platform(GCP)` | `Google Analytics` 
+
+- **Databases** : `My SQL` | `Mongo DB` | `Google BigQuery`
+
+### Status
 
 - 🔭 I’m currently working on Next.js Projects 
 - 🌱 I’m currently learning ML 
@@ -21,7 +28,7 @@ I love to travel to new places and meet new people even though an introvert I am
 - 📫 How to reach me: architrathod77@gmail.com 
 - 😄 Pronouns: He / Him / His 
 
-### My Projects
+### Projects
 
 #### Web Projects
 
