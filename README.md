@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is [Archit Rathod](https://www.architrathod.codes/)
-#### I am TE IT Student, Learner, Full Stack Developer
+#### I am BE IT Student, Learner, Full Stack Developer
 <!--
 ![I am TE IT Student, Learner, Web Developer](https://github.com/Archit1706/Archit1706/blob/main/Poster%20Archit%20Rathod.png)
 -->
