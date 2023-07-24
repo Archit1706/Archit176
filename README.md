@@ -87,7 +87,7 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true) |
 
-|                          Profile Views                           |
+|                          From 24th July, 2023 and counting...                           |
 | :--------------------------------------------------------------: |
 | ![Profile Views](https://komarev.com/ghpvc/?username=Archit1706) |
 
