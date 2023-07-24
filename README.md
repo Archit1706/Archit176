@@ -41,23 +41,23 @@ Weather Today | HTML, CSS, JS | Node.js | [link](https://weather-today.architrat
 Personal Blog | HTML, CSS, JS | Node.js (Express, EJS) | [link](https://personal-blog.architrathod1.repl.co/) | [link](https://github.com/Archit1706/Personal-Blog)
 Daily Newsletter Signup | HTML, CSS, Bootstrap, JS | Node.js | [link](https://salty-hollows-02401.herokuapp.com/) | [link](https://github.com/Archit1706/Daily-Newsletter-Signup)
 Emoji Nation | React JS, CSS | - | [link](https://emoji-nation.netlify.app/) | [link](https://github.com/Archit1706/Emoji-Nation)
-To Do App | React JS, CSS | Node.js, Mongo DB | [link](https://calm-profiterole-70f2a5.netlify.app/) | [link](https://github.com/Archit1706/Todo-App)
-Healthy Me! | React JS, Tailwind CSS | Node.js, Mongo DB | - | [link](https://github.com/Archit1706/Codeissance_22_Keyboard-Interrupt)
-Edu-Sys | React JS, Tailwind CSS | Node.js, Mongo DB | [link](https://edusys-tsec.vercel.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
+To Do App | React JS, CSS | Node JS, Mongo DB | [link](https://calm-profiterole-70f2a5.netlify.app/) | [link](https://github.com/Archit1706/Todo-App)
+Healthy Me! | React JS, Tailwind CSS | Node JS, Mongo DB | - | [link](https://github.com/Archit1706/Codeissance_22_Keyboard-Interrupt)
+Edu-Sys | React JS, Tailwind CSS | Node JS, Mongo DB | [link](https://edusys-tsec.vercel.app/) | [link](https://github.com/Archit1706/EduSys-Frontend)
 Moviescape | React JS, Tailwind CSS | TMDB | [link](https://moviescape.netlify.app/) | [link](https://github.com/Archit1706/Movie-App) 
 First Paper | Next JS, Tailwind CSS | ArXiv Dataset | [link](https://first-paper.vercel.app/) | [link](https://github.com/Archit1706/First-Paper) 
 Power Up | React JS, Tailwind CSS | Node JS, Mongo DB, API's | [link](https://powerup.sidd065.repl.co/) | [link](https://github.com/Archit1706/PowerUp)
-Coupon Vault | Next Js, Tailwind CSS | Mongo DB, Fast Api, Node JS | [link](https://coupon-vault.vercel.app/) | [link](https://github.com/Archit1706/Coupon-Vault)
-Bid Bazaar | Next Js, Tailwind CSS | Mongo DB, Cloudinary, Node JS, Flask | - | [link](https://github.com/Archit1706/TIAA-Hackathon)
+Coupon Vault | Next JS, Tailwind CSS | Mongo DB, Fast API, Node JS | [link](https://coupon-vault.vercel.app/) | [link](https://github.com/Archit1706/Coupon-Vault)
+Bid Bazaar | Next JS, Tailwind CSS | Mongo DB, Cloudinary, Node JS, Flask | - | [link](https://github.com/Archit1706/TIAA-Hackathon)
 
 #### ML Based - Web Projects
 
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
-Social Vision | Next Js, Tailwind CSS | Mongo DB, Fast Api, Python | [link](https://network-analysis-weld.vercel.app/) | [link](https://github.com/Archit1706/SocialVision)
-The One Finder | Next Js, Tailwind CSS | Mongo DB, Fast Api, Node JS | [link](https://the-one-finder.vercel.app/) | [link](https://github.com/Archit1706/The-One-Finder)
-Home Ginie | Next Js, Tailwind CSS | Fast Api, Replit | [link](https://home-ginie.vercel.app/) | [link](https://github.com/Archit1706/Home-Ginie)
-Reflections | Next.js, Tailwind CSS | Fast Api, MongoDB, Prisma | [link](https://reflections-blog.vercel.app/) | [link](https://github.com/Archit1706/Reflections-Blogs)
+Social Vision | Next JS, Tailwind CSS | Mongo DB, Fast API, Python | [link](https://network-analysis-weld.vercel.app/) | [link](https://github.com/Archit1706/SocialVision)
+The One Finder | Next JS, Tailwind CSS | Mongo DB, Fast API, Node JS | [link](https://the-one-finder.vercel.app/) | [link](https://github.com/Archit1706/The-One-Finder)
+Home Ginie | Next JS, Tailwind CSS | Fast API, Replit | [link](https://home-ginie.vercel.app/) | [link](https://github.com/Archit1706/Home-Ginie)
+Reflections | Next JS, Tailwind CSS | Fast API, MongoDB, Prisma | [link](https://reflections-blog.vercel.app/) | [link](https://github.com/Archit1706/Reflections-Blogs)
 
 #### Python Projects
 
