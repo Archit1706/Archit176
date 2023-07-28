@@ -92,7 +92,20 @@ Electricity Billing System | Java Swing | [link](https://github.com/Archit1706/E
 | :--------------------------------------------------------------: |
 | ![Profile Views](https://komarev.com/ghpvc/?username=Archit1706) |
 
+|                                                    Streak Tracker                                                   |
+| :-----------------------------------------------------------------------------------------------------------------: |
+| ![Profile Views](https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&theme=radical&hide_border=false) |
 
+<!--
+|                                                          Profile Trophies                                                           |
+| :---------------------------------------------------------------------------------------------------------------------------------: |
+| ![Profile Views](https://github-profile-trophy.vercel.app/?username=Archit1706&theme=discord&no-frame=false&no-bg=false&margin-w=4) |
+
+|                                  Random Developer Quotes                                  |
+| :---------------------------------------------------------------------------------------: |
+| ![Profile Views](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) |
+
+-->
 
 
 ### Contact Me
