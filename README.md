@@ -25,7 +25,7 @@ I love to travel to new places and meet new people even though an introvert I am
 - 🔭 I’m currently working on Next.js Projects 
 - 🌱 I’m currently learning ML 
 - 👯 I’m looking to collaborate on Fullstack React projects 
-- 📫 How to reach me: architrathod77@gmail.com 
+- 📫 How to reach me: [Here](https://www.architrathod.codes/#contact)
 - 😄 Pronouns: He / Him / His 
 
 ### Projects
