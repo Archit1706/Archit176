@@ -58,6 +58,7 @@ Social Vision | Next.js, Tailwind CSS | MongoDB, Fast API | [link](https://netwo
 The One Finder | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js | [link](https://the-one-finder.vercel.app/) | [link](https://github.com/Archit1706/The-One-Finder)
 Home Ginie | Next.js, Tailwind CSS | Fast API, Replit | [link](https://home-ginie.vercel.app/) | [link](https://github.com/Archit1706/Home-Ginie)
 Reflections | Next.js, Tailwind CSS | Fast API, MongoDB, Prisma | [link](https://reflections-blog.vercel.app/) | [link](https://github.com/Archit1706/Reflections-Blogs)
+Attire AI | Next.js, Tailwind CSS | Langchain, Stable Diffusion, NLTK | [link](https://attire-ai.vercel.app/) | [link](https://github.com/Archit1706/Outfit-Generator-Flipkart)
 
 #### Python Projects
 
