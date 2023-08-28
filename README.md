@@ -68,7 +68,7 @@ I love to travel to new places and meet new people even though an introvert I am
         />
     </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+            src="https://dinhanhthi.com/img/header/nextjs.png"
             alt="nextjs"
             width="40"
             height="40"
@@ -111,7 +111,7 @@ I love to travel to new places and meet new people even though an introvert I am
         />
     </a> <a href="https://github.com/Archit1706" target="_blank" rel="noreferrer">
     <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+            src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
             alt="github"
             width="40"
             height="40"
@@ -119,14 +119,28 @@ I love to travel to new places and meet new people even though an introvert I am
         />
     </a>
 
--   **Devops** : `Netlify` <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+-   **Devops** : <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+            src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png"
+            alt="netlify"
+            width="40"
+            height="40"
+        />
+    </a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
     <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"
             alt="heroku"
             width="40"
             height="40"
         />
-    </a> `Vercel` <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img
+            src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
+            alt="vercel"
+            width="40"
+            height="40"
+        />
+    </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
             src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
             alt="gcp"
@@ -149,7 +163,14 @@ I love to travel to new places and meet new people even though an introvert I am
             width="40"
             height="40"
         />
-    </a> `Google BigQuery`
+    </a> <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+    <img
+            src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"
+            alt="gcp-bigquery"
+            width="40"
+            height="40"
+        />
+    </a>
 
 ### Status
 
