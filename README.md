@@ -1,5 +1,3 @@
-# The official Portfolio Website of Archit Rathod.
-
 ### 👋 Hi there! My name is [Archit Rathod](https://www.architrathod.codes/)
 
 #### > I am `BE IT Student`, `Learner`, `Full Stack Developer`
