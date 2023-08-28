@@ -68,7 +68,7 @@ I love to travel to new places and meet new people even though an introvert I am
         />
     </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-            src="https://dinhanhthi.com/img/header/nextjs.png"
+            src="https://media.trustradius.com/product-logos/ZP/8H/WIK1JS3WX1T6-180x180.PNG"
             alt="nextjs"
             width="40"
             height="40"
