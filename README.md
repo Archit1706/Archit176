@@ -9,7 +9,7 @@
 
 ### About
 
-Currently, I am exploring Machine Learning and creating Full Stack Projects using Next.Js. I am also well eloquent in C++ and Python Programming.
+- Currently, I am exploring Machine Learning and creating Full Stack Projects using Next.Js. I am also well eloquent in C++ and Python Programming.
 I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day.
 I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. That's me 😀!
 
@@ -182,7 +182,7 @@ I love to travel to new places and meet new people even though an introvert I am
 
 ### Projects
 
-#### Web Projects
+- Web Projects
 
 | Web App                 | Front End                | Back End                            |                          Live Demo                           |                                  Repo                                   |
 | ----------------------- | ------------------------ | ----------------------------------- | :----------------------------------------------------------: | :---------------------------------------------------------------------: |
@@ -202,7 +202,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | Coupon Vault            | Next.js, Tailwind CSS    | MongoDB, Fast API, Node.js          |           [link](https://coupon-vault.vercel.app/)           |           [link](https://github.com/Archit1706/Coupon-Vault)            |
 | Bid Bazaar              | Next.js, Tailwind CSS    | MongoDB, Cloudinary, Node.js, Flask |                              -                               |          [link](https://github.com/Archit1706/TIAA-Hackathon)           |
 
-#### ML Based - Web Projects
+- ML Based - Web Projects
 
 | Web App        | Front End             | Back End                          |                     Live Demo                     |                              Repo                               |
 | -------------- | --------------------- | --------------------------------- | :-----------------------------------------------: | :-------------------------------------------------------------: |
@@ -212,7 +212,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | Reflections    | Next.js, Tailwind CSS | Fast API, MongoDB, Prisma         |   [link](https://reflections-blog.vercel.app/)    |     [link](https://github.com/Archit1706/Reflections-Blogs)     |
 | Attire AI      | Next.js, Tailwind CSS | Langchain, Stable Diffusion, NLTK |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Outfit-Generator-Flipkart) |
 
-#### Python Projects
+- Python Projects
 
 | Python App              | Concept / Libraries Used |                                Demo                                |                                  Repo                                  |
 | ----------------------- | ------------------------ | :----------------------------------------------------------------: | :--------------------------------------------------------------------: |
@@ -226,7 +226,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | GRE Words App           | OOPS, Pandas, Tkinter    |    [link](https://replit.com/@ArchitRathod1/GRE-Words-Practice)    |        [link](https://github.com/Archit1706/GRE-Words-Practice)        |
 | Cold Emailing           | Flask, HTML              |        [link](https://cold-emailing.architrathod1.repl.co/)        |          [link](https://github.com/Archit1706/Cold-Emailing)           |
 
-#### Java Project
+- Java Project
 
 | Desktop App                | Concept / Libraries Used |                                        Repo                                        |
 | -------------------------- | ------------------------ | :--------------------------------------------------------------------------------: |
