@@ -204,7 +204,7 @@ I love to travel to new places and meet new people even though an introvert I am
 
 - ML Based - Web Projects
 
-| Web App        | Front End             | Back End (Server / Database) | Machine Learning (Model / Dataset)                          |                     Live Demo                     |                              Repo                               |
+| Web App        | Front End             | Back End (Server / Database) | ML (Model / Dataset)                                        |                     Live Demo                     |                              Repo                               |
 | -------------- | --------------------- | ---------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-------------------------------------------------------------: |
 | Social Vision  | Next.js, Tailwind CSS | MongoDB, Fast API            | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [link](https://network-analysis-weld.vercel.app/) |       [link](https://github.com/Archit1706/SocialVision)        |
 | The One Finder | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js   | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |      [link](https://github.com/Archit1706/The-One-Finder)       |
