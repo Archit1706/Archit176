@@ -204,13 +204,15 @@ I love to travel to new places and meet new people even though an introvert I am
 
 - ML Based - Web Projects
 
-| Web App        | Front End             | Back End                          |                     Live Demo                     |                              Repo                               |
-| -------------- | --------------------- | --------------------------------- | :-----------------------------------------------: | :-------------------------------------------------------------: |
-| Social Vision  | Next.js, Tailwind CSS | MongoDB, Fast API                 | [link](https://network-analysis-weld.vercel.app/) |       [link](https://github.com/Archit1706/SocialVision)        |
-| The One Finder | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js        |    [link](https://the-one-finder.vercel.app/)     |      [link](https://github.com/Archit1706/The-One-Finder)       |
-| Home Ginie     | Next.js, Tailwind CSS | Fast API, Replit                  |      [link](https://home-ginie.vercel.app/)       |        [link](https://github.com/Archit1706/Home-Ginie)         |
-| Reflections    | Next.js, Tailwind CSS | Fast API, MongoDB, Prisma         |   [link](https://reflections-blog.vercel.app/)    |     [link](https://github.com/Archit1706/Reflections-Blogs)     |
-| Attire AI      | Next.js, Tailwind CSS | Langchain, Stable Diffusion, NLTK |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Outfit-Generator-Flipkart) |
+| Web App        | Front End             | Back End (Server / Database) | Machine Learning (Model / Dataset)                          |                     Live Demo                     |                              Repo                               |
+| -------------- | --------------------- | ---------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-------------------------------------------------------------: |
+| Social Vision  | Next.js, Tailwind CSS | MongoDB, Fast API            | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [link](https://network-analysis-weld.vercel.app/) |       [link](https://github.com/Archit1706/SocialVision)        |
+| The One Finder | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js   | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |      [link](https://github.com/Archit1706/The-One-Finder)       |
+| Home Ginie     | Next.js, Tailwind CSS | Fast API                     | Linear Regressor, US Housing Dataset                        |      [link](https://home-ginie.vercel.app/)       |        [link](https://github.com/Archit1706/Home-Ginie)         |
+| Reflections    | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma    | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    |     [link](https://github.com/Archit1706/Reflections-Blogs)     |
+| Attire AI      | Next.js, Tailwind CSS | Flask                        | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Outfit-Generator-Flipkart) |
+| VoiceSentri    | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js   | Librosa, Transformers                                       |     [link](https://voice-sentri.vercel.app/)      |        [link](https://github.com/Archit1706/VoiceSentri)        |
+
 
 - Python Projects
 
