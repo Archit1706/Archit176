@@ -219,6 +219,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | Python App              | Concept / Libraries Used |                                Demo                                |                                  Repo                                  |
 | ----------------------- | ------------------------ | :----------------------------------------------------------------: | :--------------------------------------------------------------------: |
 | Hirst Painting          | Tkinter                  |      [link](https://replit.com/@ArchitRathod1/Hirst-Painting)      |          [link](https://github.com/Archit1706/Hirst-Painting)          |
+| NATO Alphabet Generator | Pandas                   |      -      |          [link](https://github.com/Archit1706/NATO-Phonetics-Generator)          |
 | Mail Merger             | File Handling            |                              [link]()                              |           [link](https://github.com/Archit1706/Mail-Merger)            |
 | Proctor It!             | OpenCV, Tkinter, MySQL   |                                 -                                  | [link](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator) |
 | Pomodoro Technque Timer | Tkinter                  | [link](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |     [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)     |
