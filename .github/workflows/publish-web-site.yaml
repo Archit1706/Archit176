@@ -22,7 +22,7 @@ jobs:
             - name: Move files to `build` directory
               run: |
                   mkdir build
-                  cp -r static CNAME *.html robots.txt build
+                  cp -r assets CNAME *.html robots.txt build
 
             - name: Deploy to GitHub Pages
               uses: JamesIves/github-pages-deploy-action@v4
