@@ -228,6 +228,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | Pong Game               | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Pong-Game)         |            [link](https://github.com/Archit1706/Pong-Game)             |
 | GRE Words App           | OOPS, Pandas, Tkinter    |    [link](https://replit.com/@ArchitRathod1/GRE-Words-Practice)    |        [link](https://github.com/Archit1706/GRE-Words-Practice)        |
 | Cold Emailing           | Flask, HTML              |        [link](https://cold-emailing.architrathod1.repl.co/)        |          [link](https://github.com/Archit1706/Cold-Emailing)           |
+| Cold Emailing           | Flask, HTML              |        [-]()        |          [link](https://github.com/Archit1706/BG-Remover)           |
 
 - Java Project
 
