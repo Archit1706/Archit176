@@ -188,7 +188,7 @@ I love to travel to new places and meet new people even though an introvert I am
 
 | Web / App      |               Demo                |                      Contribute                      |
 | -------------- | :-------------------------------: | :--------------------------------------------------: |
-| Hirst Painting | [link](https://dsa30.vercel.app/) | [link](https://github.com/Archit1706/DSA-30/#readme) |
+|     DSA-30     | [link](https://dsa30.vercel.app/) | [link](https://github.com/Archit1706/DSA-30/#readme) |
 
 - Web Projects
 
