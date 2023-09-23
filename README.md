@@ -182,7 +182,7 @@ I love to travel to new places and meet new people even though an introvert I am
 
 ### Projects
 
-<img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="Girl in a jacket" width="90" height="60">
+<img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="Girl in a jacket" width="75" height="50">
 
 - Open Source Project
 
