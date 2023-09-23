@@ -182,6 +182,14 @@ I love to travel to new places and meet new people even though an introvert I am
 
 ### Projects
 
+<img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="Girl in a jacket" width="90" height="60">
+
+- Open Source Project
+
+| Web / App      |               Demo                |                     Repo                     |
+| -------------- | :-------------------------------: | :------------------------------------------: |
+|     DSA30      | [link](https://dsa30.vercel.app/) | [link](https://github.com/Archit1706/DSA-30) |
+
 - Web Projects
 
 | Web App                 | Front End                | Back End                            |                          Live Demo                           |                                  Repo                                   |
@@ -212,12 +220,6 @@ I love to travel to new places and meet new people even though an introvert I am
 | Reflections    | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma    | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    |     [link](https://github.com/Archit1706/Reflections-Blogs)     |
 | Attire AI      | Next.js, Tailwind CSS | Flask                        | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Attire-AI) |
 | VoiceSentri    | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js   | Librosa, Transformers                                       |     [link](https://voice-sentri.vercel.app/)      |        [link](https://github.com/Archit1706/VoiceSentri)        |
-
--   Open Source Project
-
-| Web / App      |               Demo                |                     Repo                     |
-| -------------- | :-------------------------------: | :------------------------------------------: |
-| Hirst Painting | [link](https://dsa30.vercel.app/) | [link](https://github.com/Archit1706/DSA-30) |
 
 - Python Projects
 
