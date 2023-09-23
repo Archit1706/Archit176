@@ -213,6 +213,11 @@ I love to travel to new places and meet new people even though an introvert I am
 | Attire AI      | Next.js, Tailwind CSS | Flask                        | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Attire-AI) |
 | VoiceSentri    | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js   | Librosa, Transformers                                       |     [link](https://voice-sentri.vercel.app/)      |        [link](https://github.com/Archit1706/VoiceSentri)        |
 
+-   Open Source Project
+
+| Web / App      |               Demo                |                     Repo                     |
+| -------------- | :-------------------------------: | :------------------------------------------: |
+| Hirst Painting | [link](https://dsa30.vercel.app/) | [link](https://github.com/Archit1706/DSA-30) |
 
 - Python Projects
 
