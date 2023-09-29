@@ -247,9 +247,11 @@ I love to travel to new places and meet new people even though an introvert I am
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true) |
 
+<!--
 |                          Profile Views                           |
 | :--------------------------------------------------------------: |
 | ![Profile Views](https://komarev.com/ghpvc/?username=Archit1706) |
+-->
 
 |                                                   Streak Tracker                                                    |
 | :-----------------------------------------------------------------------------------------------------------------: |
