@@ -1,6 +1,6 @@
 ### 👋 Hi there! My name is [Archit Rathod](https://www.architrathod.codes/)
 
-#### > I am `BE IT Student`, `Learner`, `Full Stack Developer`
+I am **BE IT Student**, **Learner**, **Full Stack Developer**
 
 <!-- poster -->
 <!--
@@ -9,7 +9,7 @@
 
 ### About
 
-- Currently, I am exploring Machine Learning and creating Full Stack Projects using Next.Js. I am also well eloquent in C++ and Python Programming.
+Currently, I am exploring Machine Learning and creating Full Stack Projects using Next.Js. I am also well eloquent in C++ and Python Programming.
 I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day.
 I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. That's me 😀!
 
