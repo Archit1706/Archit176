@@ -219,6 +219,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | SwarBhaav      | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js   | Librosa, Transformers, OpenAI                               |     [link](https://voice-sentri.vercel.app/)      |        [link](https://github.com/Archit1706/VoiceSentri)        |
 | PhishiFence    | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium   | OpenCV, Transformers, OpenAI, LightGBM                     |     [link](https://phishfence.vercel.app/)      |        [link](https://github.com/Archit1706/PhishFence)        |
 | Ascend AI    | Next.js, Tailwind CSS | Fast API, MongoDB              | OpenCV, Transformers, OpenAI, Librosa                      |     [link](https://ascend-ai-mpr.vercel.app/)      |        [link](https://github.com/Archit1706/Ascend.ai)        |
+| FitSphere    | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js              | OpenCV, OpenAI                     |     [link](https://fitsphere.vercel.app/)      |        [link](https://github.com/Archit1706/FitSphere)        |
 
 <!-- 
 | Attire AI      | Next.js, Tailwind CSS | Flask                        | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Attire-AI) |
