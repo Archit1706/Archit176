@@ -216,10 +216,13 @@ I love to travel to new places and meet new people even though an introvert I am
 | The One Finder | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js   | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |      [link](https://github.com/Archit1706/The-One-Finder)       |
 | Home Ginie     | Next.js, Tailwind CSS | Fast API                     | Linear Regressor, US Housing Dataset                        |      [link](https://home-ginie.vercel.app/)       |        [link](https://github.com/Archit1706/Home-Ginie)         |
 | Reflections    | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma    | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    |     [link](https://github.com/Archit1706/Reflections-Blogs)     |
-| Attire AI      | Next.js, Tailwind CSS | Flask                        | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Attire-AI) |
 | SwarBhaav      | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js   | Librosa, Transformers, OpenAI                               |     [link](https://voice-sentri.vercel.app/)      |        [link](https://github.com/Archit1706/VoiceSentri)        |
 | PhishiFence    | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium   | OpenCV, Transformers, OpenAI, LightGBM                     |     [link](https://phishfence.vercel.app/)      |        [link](https://github.com/Archit1706/PhishFence)        |
 | Ascend AI    | Next.js, Tailwind CSS | Fast API, MongoDB              | OpenCV, Transformers, OpenAI, Librosa                      |     [link](https://ascend-ai-mpr.vercel.app/)      |        [link](https://github.com/Archit1706/Ascend.ai)        |
+
+<!-- 
+| Attire AI      | Next.js, Tailwind CSS | Flask                        | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Attire-AI) |
+-->
 
 - Python Projects
 
