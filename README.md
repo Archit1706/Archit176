@@ -207,6 +207,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | Power Up                | React, Tailwind CSS      | Node.js, MongoDB, API's             |           [link](https://powerup.sidd065.repl.co/)           |              [link](https://github.com/Archit1706/PowerUp)              |
 | Coupon Vault            | Next.js, Tailwind CSS    | MongoDB, Fast API, Node.js          |           [link](https://coupon-vault.vercel.app/)           |           [link](https://github.com/Archit1706/Coupon-Vault)            |
 | Bid Bazaar              | Next.js, Tailwind CSS    | MongoDB, Cloudinary, Node.js, Flask |                              -                               |          [link](https://github.com/Archit1706/TIAA-Hackathon)           |
+| Bid Bazaar              | Next.js, Tailwind CSS, Grunt, Three.js | MongoDB, Cloudinary, Node.js, FastAPI |           [link](https://realestate360.vercel.app/)          |          [link](https://github.com/Archit1706/RealEstate360)           |
 
 - ML Based - Web Projects
 
