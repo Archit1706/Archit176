@@ -182,13 +182,27 @@ I love to travel to new places and meet new people even though an introvert I am
 
 ### Projects
 
-- Open Source Project <img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="Girl in a jacket" width="45" height="30">
+-   Open Source Project <img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="Girl in a jacket" width="45" height="30">
 
-| Web / App      |               Demo                |                      Contribute                      |
-| -------------- | :-------------------------------: | :--------------------------------------------------: |
-|     DSA-30     | [link](https://dsa30.vercel.app/) | [link](https://github.com/Archit1706/DSA-30/#readme) |
+| Web / App |               Demo                |                      Contribute                      |
+| --------- | :-------------------------------: | :--------------------------------------------------: |
+| DSA-30    | [link](https://dsa30.vercel.app/) | [link](https://github.com/Archit1706/DSA-30/#readme) |
 
-- Web Projects
+-   ML Based - Web Projects
+
+| Web App        | Front End             | Back End (Server / Database)                  | ML (Model / Dataset)                                        |                     Live Demo                     |                          Repo                           |
+| -------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
+| FitSphere      | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |       [link](https://fitsphere.vercel.app/)       |     [link](https://github.com/Archit1706/FitSphere)     |
+| Ascend AI      | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |     [link](https://ascend-ai-mpr.vercel.app/)     |     [link](https://github.com/Archit1706/Ascend.ai)     |
+| PhishiFence    | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |      [link](https://phishfence.vercel.app/)       |    [link](https://github.com/Archit1706/PhishFence)     |
+| SwarBhaav      | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |     [link](https://voice-sentri.vercel.app/)      |    [link](https://github.com/Archit1706/VoiceSentri)    |
+| Attire AI      | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       |     [link](https://github.com/Archit1706/Attire-AI)     |
+| Reflections    | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    | [link](https://github.com/Archit1706/Reflections-Blogs) |
+| Home Ginie     | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |      [link](https://home-ginie.vercel.app/)       |    [link](https://github.com/Archit1706/Home-Ginie)     |
+| The One Finder | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |  [link](https://github.com/Archit1706/The-One-Finder)   |
+| Social Vision  | Next.js, Tailwind CSS | MongoDB, Fast API                             | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [link](https://network-analysis-weld.vercel.app/) |   [link](https://github.com/Archit1706/SocialVision)    |
+
+-   Web Projects
 
 | Web App                 | Front End                              | Back End                              |                          Live Demo                           |                                  Repo                                   |
 | ----------------------- | -------------------------------------- | ------------------------------------- | :----------------------------------------------------------: | :---------------------------------------------------------------------: |
@@ -209,25 +223,11 @@ I love to travel to new places and meet new people even though an introvert I am
 | Random Quote Generator  | HTML, CSS, JS                          | -                                     | [link](https://archit1706.github.io/Random-Quote-Generator/) |      [link](https://github.com/Archit1706/Random-Quote-Generator)       |
 | Simple Calculator       | HTML, CSS, JS, jQuery                  | -                                     |   [link](https://archit1706.github.io/Simple-Calculator/)    |         [link](https://github.com/Archit1706/Simple-Calculator)         |
 
-- ML Based - Web Projects
-
-| Web App        | Front End             | Back End (Server / Database)                  | ML (Model / Dataset)                                        |                     Live Demo                     |                          Repo                           |
-| -------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
-| FitSphere      | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |       [link](https://fitsphere.vercel.app/)       |     [link](https://github.com/Archit1706/FitSphere)     |
-| Ascend AI      | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |     [link](https://ascend-ai-mpr.vercel.app/)     |     [link](https://github.com/Archit1706/Ascend.ai)     |
-| PhishiFence    | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |      [link](https://phishfence.vercel.app/)       |    [link](https://github.com/Archit1706/PhishFence)     |
-| SwarBhaav      | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |     [link](https://voice-sentri.vercel.app/)      |    [link](https://github.com/Archit1706/VoiceSentri)    |
-| Attire AI      | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       |     [link](https://github.com/Archit1706/Attire-AI)     |
-| Reflections    | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    | [link](https://github.com/Archit1706/Reflections-Blogs) |
-| Home Ginie     | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |      [link](https://home-ginie.vercel.app/)       |    [link](https://github.com/Archit1706/Home-Ginie)     |
-| The One Finder | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |  [link](https://github.com/Archit1706/The-One-Finder)   |
-| Social Vision  | Next.js, Tailwind CSS | MongoDB, Fast API                             | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [link](https://network-analysis-weld.vercel.app/) |   [link](https://github.com/Archit1706/SocialVision)    |
-
-<!-- 
+<!--
 | Attire AI      | Next.js, Tailwind CSS | Flask                        | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Attire-AI) |
 -->
 
-- Python Projects
+-   Python Projects
 
 | Python App               | Concept / Libraries Used |                                Demo                                |                                  Repo                                  |
 | ------------------------ | ------------------------ | :----------------------------------------------------------------: | :--------------------------------------------------------------------: |
@@ -243,7 +243,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | NATO Alphabet Generator  | Pandas                   |                                 -                                  |     [link](https://github.com/Archit1706/NATO-Phonetics-Generator)     |
 | Hirst Painting           | Tkinter                  |      [link](https://replit.com/@ArchitRathod1/Hirst-Painting)      |          [link](https://github.com/Archit1706/Hirst-Painting)          |
 
-- Java Project
+-   Java Project
 
 | Desktop App                | Concept / Libraries Used |                                        Repo                                        |
 | -------------------------- | ------------------------ | :--------------------------------------------------------------------------------: |
