@@ -52,6 +52,50 @@ I love to travel to new places and meet new people even though an introvert I am
           />
     </a>
 
+-   **Libraries** : <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img
+              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg"
+              alt="numpy"
+              width="40"
+              height="40"
+            />
+    </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg"
+              alt="pandas"
+              width="40"
+              height="40"
+            />
+    </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img
+              src="https://www.architrathod.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmatplotlib.769c075a.png&w=256&q=75"
+              alt="matplotlib"
+              width="45"
+              height="45"
+            />
+    </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img
+              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/opencv/opencv-original.svg"
+              alt="opencv"
+              width="40"
+              height="40"
+            />
+    </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img
+              src="https://www.architrathod.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsklearn.fbbf97cd.png&w=256&q=75"
+              alt="scikit-learn"
+              width="45"
+              height="45"
+            />
+    </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img
+              src="https://www.architrathod.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fplotly.0fa3c55f.png&w=256&q=75"
+              alt="plotly"
+              width="50"
+              height="50"
+            />
+    </a>
+
 -   **Tools / Frameworks** : <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
