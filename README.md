@@ -214,6 +214,13 @@ I love to travel to new places and meet new people even though an introvert I am
             width="40"
             height="40"
         />
+    </a> <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+    <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"
+            alt="neo4j"
+            width="55"
+            height="55"
+        />
     </a>
 
 ### Status
