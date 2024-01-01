@@ -10,8 +10,8 @@ I am **BE IT Student**, **Learner**, **Full Stack Developer**
 ### About
 
 Currently, I am exploring Machine Learning and creating Full Stack Projects using Next.Js. I am also well eloquent in C++ and Python Programming.
-I am very hardworking, disciplined and consistent at my work. I like reading books and exploring and learning new things every day.
-I love to travel to new places and meet new people even though an introvert I am an easy to talk person. I read and learn about investments and stuff revolving around finance in my leisure time. That's me 😀!
+I am very hardworking, disciplined, and consistent at my work. I like reading books and exploring and learning new things every day.
+I love to travel to new places and meet new people even though an introvert I am an easy to talk person. In my leisure time, I read and learn about investments and stuff revolving around finance. That's me 😀!
 
 ### Skills
 
@@ -282,13 +282,13 @@ I love to travel to new places and meet new people even though an introvert I am
 
 | Python App               | Concept / Libraries Used |                                Demo                                |                                  Repo                                  |
 | ------------------------ | ------------------------ | :----------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| Backgroung Image Remover | Flask, HTML, Rembg       |                               [-]()                                |            [link](https://github.com/Archit1706/BG-Remover)            |
+| Background Image Remover | Flask, HTML, Rembg       |                               [-]()                                |            [link](https://github.com/Archit1706/BG-Remover)            |
 | Cold Emailing            | Flask, HTML              |        [link](https://cold-emailing.architrathod1.repl.co/)        |          [link](https://github.com/Archit1706/Cold-Emailing)           |
 | GRE Words App            | OOPS, Pandas, Tkinter    |    [link](https://replit.com/@ArchitRathod1/GRE-Words-Practice)    |        [link](https://github.com/Archit1706/GRE-Words-Practice)        |
 | Pong Game                | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Pong-Game)         |            [link](https://github.com/Archit1706/Pong-Game)             |
 | Indian States Game       | Tkinter, Pandas          |    [link](https://replit.com/@ArchitRathod1/India-States-Game)     |        [link](https://github.com/Archit1706/India-States-Game)         |
 | Snake Game               | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Snake-Game)        |            [link](https://github.com/Archit1706/SnakeGame)             |
-| Pomodoro Technque Timer  | Tkinter                  | [link](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |     [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)     |
+| Pomodoro Technique Timer  | Tkinter                  | [link](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |     [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)     |
 | Proctor It!              | OpenCV, Tkinter, MySQL   |                                 -                                  | [link](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator) |
 | Mail Merger              | File Handling            |                              [link]()                              |           [link](https://github.com/Archit1706/Mail-Merger)            |
 | NATO Alphabet Generator  | Pandas                   |                                 -                                  |     [link](https://github.com/Archit1706/NATO-Phonetics-Generator)     |
