@@ -300,6 +300,9 @@ I love to travel to new places and meet new people even though an introvert I am
 | -------------------------- | ------------------------ | :--------------------------------------------------------------------------------: |
 | Electricity Billing System | Java Swing               | [link](https://github.com/Archit1706/Electricity-Billing-System-Mini-Project-Sem3) |
 
+> [!NOTE]  
+> Some deployed projects have broken backends due to paid backend services 🥺
+
 ### Github Stats
 
 |                                                              Most Languages Used                                                              |                                          GitHub Stats                                           |
