@@ -225,9 +225,9 @@ I love to travel to new places and meet new people even though an introvert I am
 
 ### Status
 
--   🔭 I’m currently working on Next.js Projects
--   🌱 I’m currently learning ML
--   👯 I’m looking to collaborate on Fullstack React projects
+-   🔭 I’m currently researching on mitigating misinformation on YouTube    
+-   🌱 I’m currently making a machine learn!
+-   👯 I’m looking to collaborate on Fullstack MERN / Next.js projects
 -   📫 How to reach me: [Here](https://www.architrathod.codes/#contact)
 -   😄 Pronouns: He / Him / His
 
