@@ -271,6 +271,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | Personal Blog           | HTML, CSS, JS                          | Node.js (Express, EJS)                |     [link](https://personal-blog.architrathod1.repl.co/)     |           [link](https://github.com/Archit1706/Personal-Blog)           |
 | Weather Today           | HTML, CSS, JS                          | Node.js                               |     [link](https://weather-today.architrathod1.repl.co/)     |           [link](https://github.com/Archit1706/Weather-Today)           |
 | Simon Game              | HTML, CSS, JS                          | -                                     |     [link](https://archit1706.github.io/The-Simon-Game/)     |          [link](https://github.com/Archit1706/The-Simon-Game)           |
+| Image Gallery App       | HTML, CSS, JS                | LocalStorage                                    |   [link](https://image-gallery-upload.vercel.app/)    |         [link](https://github.com/Archit1706/Image-Gallery-App)         |
 | Random Quote Generator  | HTML, CSS, JS                          | -                                     | [link](https://archit1706.github.io/Random-Quote-Generator/) |      [link](https://github.com/Archit1706/Random-Quote-Generator)       |
 | Simple Calculator       | HTML, CSS, JS, jQuery                  | -                                     |   [link](https://archit1706.github.io/Simple-Calculator/)    |         [link](https://github.com/Archit1706/Simple-Calculator)         |
 
