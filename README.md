@@ -1,7 +1,9 @@
 ### 👋 Hi there! My name is [Archit Rathod](https://www.architrathod.codes/)
 
-👩‍🎓 **BE IT Student** at **University of Mumbai**
-📚 **Learner** | 💻 **Full Stack Developer** | 🔍 **Researcher**
+- 👩‍🎓 **BE IT Student** at **University of Mumbai**
+- 📚 **Learner**
+- 💻 **Full Stack Developer**
+- 🔍 **Researcher**
 
 <!-- poster -->
 <!--
