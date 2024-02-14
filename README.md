@@ -1,6 +1,7 @@
 ### 👋 Hi there! My name is [Archit Rathod](https://www.architrathod.codes/)
 
-I am a **BE IT Student** at **University of Mumbai**, a **Learner**, a **Full Stack Developer**, a **Researcher**
+👩‍🎓 **BE IT Student** at **University of Mumbai**
+📚 **Learner** | 💻 **Full Stack Developer** | 🔍 **Researcher**
 
 <!-- poster -->
 <!--
@@ -9,9 +10,7 @@ I am a **BE IT Student** at **University of Mumbai**, a **Learner**, a **Full St
 
 ### About
 
-Currently, I am exploring Machine Learning and creating Full Stack Projects using Next.Js. I am also well eloquent in C++ and Python Programming.
-I am very hardworking, disciplined, and consistent at my work. I like reading books and exploring and learning new things every day.
-I love to travel to new places and meet new people even though an introvert I am an easy to talk person. In my leisure time, I read and learn about investments and stuff revolving around finance. That's me 😀!
+🚀 Exploring Machine Learning and crafting Full Stack Projects with Next.Js 💻. Proficient in C++ and Python Programming 🐍. Hardworking, disciplined, and consistent in my work ethic. 📚 Love reading books and enjoy learning new things daily. ✈️ Passionate about traveling to new places and meeting new people, despite being an introvert. Easy to talk to! In my free time, I delve into finance, reading and learning about investments. That's me! 😄
 
 ### Skills
 
