@@ -21,6 +21,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="html5"
             width="40"
             height="40"
+            title="HTML"
         />
     </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
@@ -28,6 +29,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="javascript"
               width="40"
               height="40"
+              title="Javascript"
           />
     </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
@@ -35,6 +37,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="typescript"
               width="40"
               height="40"
+              title="Typescript"
           />
     </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
@@ -42,6 +45,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="cplusplus"
               width="40"
               height="40"
+              title="C++"
           />
     </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
@@ -49,6 +53,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="python"
               width="40"
               height="40"
+              title="Python"
           />
     </a>
 
@@ -58,6 +63,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="numpy"
               width="40"
               height="40"
+              title="Numpy"
             />
     </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
@@ -65,6 +71,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="pandas"
               width="40"
               height="40"
+              title="Pandas"
             />
     </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img
@@ -72,6 +79,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="matplotlib"
               width="45"
               height="45"
+              title="Matplotlib"
             />
     </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img
@@ -79,6 +87,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="opencv"
               width="40"
               height="40"
+              title="OpenCV"
             />
     </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img
@@ -86,6 +95,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="scikit-learn"
               width="45"
               height="45"
+              title="SkLearn"
             />
     </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img
@@ -93,6 +103,7 @@ I love to travel to new places and meet new people even though an introvert I am
               alt="plotly"
               width="50"
               height="50"
+              title="Plotly"
             />
     </a>
 
@@ -102,6 +113,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="nodejs"
             width="40"
             height="40"
+            title="Node.js"
           />
     </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -109,6 +121,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="react"
             width="40"
             height="40"
+            title="React.js"
         />
     </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -117,6 +130,7 @@ I love to travel to new places and meet new people even though an introvert I am
             width="40"
             height="40"
             style="background-color: 'white'; padding: '2px'"
+            title="Next.js"
     />
     </a> <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img
@@ -124,6 +138,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="jQuery"
             width="40"
             height="40"
+            title="jQuery"
         />
     </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
@@ -131,6 +146,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="postman"
             width="40"
             height="40"
+            title="Postman"
         />
     </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
@@ -138,6 +154,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="css3"
             width="40"
             height="40"
+            title="CSS"
         />
     </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
@@ -145,6 +162,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="tailwind"
             width="40"
             height="40"
+            title="Tailwind CSS"
         />
     </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -152,6 +170,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="git"
             width="40"
             height="40"
+            title="Git"
         />
     </a> <a href="https://github.com/Archit1706" target="_blank" rel="noreferrer">
     <img
@@ -160,15 +179,17 @@ I love to travel to new places and meet new people even though an introvert I am
             width="40"
             height="40"
             style="background-color: 'white'; padding: '2px'"
+            title="GitHub"
         />
     </a>
 
--   **Devops** : <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+-   **Devops** : <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img
             src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png"
             alt="netlify"
             width="40"
             height="40"
+            title="Netlify"
         />
     </a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
     <img
@@ -176,6 +197,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="heroku"
             width="40"
             height="40"
+            title="Heroku"
         />
     </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img
@@ -183,6 +205,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="vercel"
             width="40"
             height="40"
+            title="Vercel"
         />
     </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
@@ -190,6 +213,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="gcp"
             width="40"
             height="40"
+            title="Google Cloud"
         />
     </a>
 
@@ -199,6 +223,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="mysql"
             width="40"
             height="40"
+            title="MySQL"
         />
     </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
@@ -206,6 +231,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="mongodb"
             width="40"
             height="40"
+            title="MongoDB"
         />
     </a> <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img
@@ -213,6 +239,7 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="gcp-bigquery"
             width="40"
             height="40"
+            title="Big Query"
         />
     </a> <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
     <img
@@ -220,12 +247,13 @@ I love to travel to new places and meet new people even though an introvert I am
             alt="neo4j"
             width="55"
             height="55"
+            title="Neo4j"
         />
     </a>
 
 ### Status
 
--   🔭 I’m currently researching on mitigating misinformation on YouTube    
+-   🔭 I’m currently researching on mitigating misinformation on YouTube
 -   🌱 I’m currently making a machine learn!
 -   👯 I’m looking to collaborate on Fullstack MERN / Next.js projects
 -   📫 How to reach me: [Here](https://www.architrathod.codes/#contact)
@@ -244,9 +272,9 @@ I love to travel to new places and meet new people even though an introvert I am
 | Web App        | Front End             | Back End (Server / Database)                  | ML (Model / Dataset)                                        |                     Live Demo                     |                          Repo                           |
 | -------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
 | FitSphere      | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |       [link](https://fitsphere.vercel.app/)       |     [link](https://github.com/Archit1706/FitSphere)     |
-| Ascend AI      | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |     [link](https://ascend-ai-mpr.vercel.app/)     |     [link](https://github.com/Archit1706/AscendAI)     |
+| Ascend AI      | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |     [link](https://ascend-ai-mpr.vercel.app/)     |     [link](https://github.com/Archit1706/AscendAI)      |
 | PhishiFence    | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |      [link](https://phishfence.vercel.app/)       |    [link](https://github.com/Archit1706/PhishFence)     |
-| SwarBhaav      | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |     [link](https://swarbhaav.vercel.app/)      |    [link](https://github.com/Archit1706/SwarBhaav)    |
+| SwarBhaav      | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |       [link](https://swarbhaav.vercel.app/)       |     [link](https://github.com/Archit1706/SwarBhaav)     |
 | Attire AI      | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       |     [link](https://github.com/Archit1706/Attire-AI)     |
 | Reflections    | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    | [link](https://github.com/Archit1706/Reflections-Blogs) |
 | Home Ginie     | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |      [link](https://home-ginie.vercel.app/)       |    [link](https://github.com/Archit1706/Home-Ginie)     |
@@ -271,7 +299,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | Personal Blog           | HTML, CSS, JS                          | Node.js (Express, EJS)                |     [link](https://personal-blog.architrathod1.repl.co/)     |           [link](https://github.com/Archit1706/Personal-Blog)           |
 | Weather Today           | HTML, CSS, JS                          | Node.js                               |     [link](https://weather-today.architrathod1.repl.co/)     |           [link](https://github.com/Archit1706/Weather-Today)           |
 | Simon Game              | HTML, CSS, JS                          | -                                     |     [link](https://archit1706.github.io/The-Simon-Game/)     |          [link](https://github.com/Archit1706/The-Simon-Game)           |
-| Image Gallery App       | HTML, CSS, JS                | LocalStorage                                    |   [link](https://image-gallery-upload.vercel.app/)    |         [link](https://github.com/Archit1706/Image-Gallery-App)         |
+| Image Gallery App       | HTML, CSS, JS                          | LocalStorage                          |       [link](https://image-gallery-upload.vercel.app/)       |         [link](https://github.com/Archit1706/Image-Gallery-App)         |
 | Random Quote Generator  | HTML, CSS, JS                          | -                                     | [link](https://archit1706.github.io/Random-Quote-Generator/) |      [link](https://github.com/Archit1706/Random-Quote-Generator)       |
 | Simple Calculator       | HTML, CSS, JS, jQuery                  | -                                     |   [link](https://archit1706.github.io/Simple-Calculator/)    |         [link](https://github.com/Archit1706/Simple-Calculator)         |
 
@@ -289,7 +317,7 @@ I love to travel to new places and meet new people even though an introvert I am
 | Pong Game                | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Pong-Game)         |            [link](https://github.com/Archit1706/Pong-Game)             |
 | Indian States Game       | Tkinter, Pandas          |    [link](https://replit.com/@ArchitRathod1/India-States-Game)     |        [link](https://github.com/Archit1706/India-States-Game)         |
 | Snake Game               | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Snake-Game)        |            [link](https://github.com/Archit1706/SnakeGame)             |
-| Pomodoro Technique Timer  | Tkinter                  | [link](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |     [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)     |
+| Pomodoro Technique Timer | Tkinter                  | [link](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |     [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)     |
 | Proctor It!              | OpenCV, Tkinter, MySQL   |                                 -                                  | [link](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator) |
 | Mail Merger              | File Handling            |                              [link]()                              |           [link](https://github.com/Archit1706/Mail-Merger)            |
 | NATO Alphabet Generator  | Pandas                   |                                 -                                  |     [link](https://github.com/Archit1706/NATO-Phonetics-Generator)     |
