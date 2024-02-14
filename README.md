@@ -1,6 +1,6 @@
 ### 👋 Hi there! My name is [Archit Rathod](https://www.architrathod.codes/)
 
-I am **BE IT Student** @University of Mumbai, **Learner**, **Full Stack Developer**
+I am a **BE IT Student** at **University of Mumbai**, a **Learner**, a **Full Stack Developer**, a **Researcher**
 
 <!-- poster -->
 <!--
