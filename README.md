@@ -257,7 +257,7 @@
 -   🔭 I’m currently researching on mitigating misinformation on YouTube
 -   🌱 I’m currently making a machine learn!
 -   👥 I’m looking to collaborate on Fullstack MERN / Next.js projects
--   📫 How to reach me: [Here](https://www.architrathod.codes/#contact)
+-   📫 How to reach me: Click [Here](https://www.architrathod.codes/#contact)
 
 ### Projects
 
