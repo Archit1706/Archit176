@@ -1,4 +1,4 @@
-### 👋 Hi there! My name is [Archit Rathod](https://www.architrathod.codes/)
+### 👋 Hi there! My name is [Archit Rathod](https://archit-rathod.vercel.app/)
 
 - 🧑🏻‍🎓 **BE IT Student** at **University of Mumbai**
 - 📚 **Learner**
