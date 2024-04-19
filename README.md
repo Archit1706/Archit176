@@ -76,7 +76,7 @@
             />
     </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img
-              src="https://www.architrathod.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmatplotlib.769c075a.png&w=256&q=75"
+              src="https://www.archit-rathod.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmatplotlib.769c075a.png&w=256&q=75"
               alt="matplotlib"
               width="45"
               height="45"
@@ -92,7 +92,7 @@
             />
     </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img
-              src="https://www.architrathod.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsklearn.fbbf97cd.png&w=256&q=75"
+              src="https://www.archit-rathod.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsklearn.fbbf97cd.png&w=256&q=75"
               alt="scikit-learn"
               width="45"
               height="45"
@@ -100,7 +100,7 @@
             />
     </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img
-              src="https://www.architrathod.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fplotly.0fa3c55f.png&w=256&q=75"
+              src="https://www.archit-rathod.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fplotly.0fa3c55f.png&w=256&q=75"
               alt="plotly"
               width="50"
               height="50"
@@ -257,7 +257,7 @@
 -   🔭 I’m currently researching on mitigating misinformation on YouTube
 -   🌱 I’m currently making a machine learn!
 -   👥 I’m looking to collaborate on Fullstack MERN / Next.js projects
--   📫 How to reach me: Click [Here](https://www.architrathod.codes/#contact)
+-   📫 How to reach me: Click [Here](https://www.archit-rathod.vercel.app/#contact)
 
 ### Projects
 
