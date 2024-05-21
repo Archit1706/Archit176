@@ -1,9 +1,9 @@
 ### 👋 Hi there! My name is [Archit Rathod](https://archit-rathod.vercel.app/)
 
-- 🧑🏻‍🎓 **BE IT Student** at **University of Mumbai**
-- 📚 **Learner**
-- 💻 **Full Stack Developer**
-- 🔍 **Researcher**
+-   🧑🏻‍🎓 **BE IT Student** at **University of Mumbai**
+-   📚 **Learner**
+-   💻 **Full Stack Developer**
+-   🔍 **Researcher**
 
 <!-- poster -->
 <!--
@@ -269,17 +269,18 @@
 
 -   ML Based - Web Projects
 
-| Web App        | Front End             | Back End (Server / Database)                  | ML (Model / Dataset)                                        |                     Live Demo                     |                          Repo                           |
-| -------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
-| FitSphere      | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |       [link](https://fitsphere.vercel.app/)       |     [link](https://github.com/Archit1706/FitSphere)     |
-| Ascend AI      | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |     [link](https://ascend-ai-mpr.vercel.app/)     |     [link](https://github.com/Archit1706/AscendAI)      |
-| PhishiFence    | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |      [link](https://phishfence.vercel.app/)       |    [link](https://github.com/Archit1706/PhishFence)     |
-| SwarBhaav      | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |       [link](https://swarbhaav.vercel.app/)       |     [link](https://github.com/Archit1706/SwarBhaav)     |
-| Attire AI      | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       |     [link](https://github.com/Archit1706/Attire-AI)     |
-| Reflections    | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    | [link](https://github.com/Archit1706/Reflections-Blogs) |
-| Home Ginie     | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |      [link](https://home-ginie.vercel.app/)       |    [link](https://github.com/Archit1706/Home-Ginie)     |
-| The One Finder | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |  [link](https://github.com/Archit1706/The-One-Finder)   |
-| Social Vision  | Next.js, Tailwind CSS | MongoDB, Fast API                             | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [link](https://network-analysis-weld.vercel.app/) |   [link](https://github.com/Archit1706/SocialVision)    |
+| Web App              | Front End             | Back End (Server / Database)                  | ML (Model / Dataset / Library)                              |                     Live Demo                     |                          Repo                           |
+| -------------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
+| Multi Document Agent | Next.js, Tailwind CSS | Fast API                                      | Llama Index, OpenAI                                         |    [link](https://multi-doc-agent.vercel.app/)    |  [link](https://github.com/Archit1706/multi-doc-agent)  |
+| FitSphere            | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |       [link](https://fitsphere.vercel.app/)       |     [link](https://github.com/Archit1706/FitSphere)     |
+| Ascend AI            | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |     [link](https://ascend-ai-mpr.vercel.app/)     |     [link](https://github.com/Archit1706/AscendAI)      |
+| PhishiFence          | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |      [link](https://phishfence.vercel.app/)       |    [link](https://github.com/Archit1706/PhishFence)     |
+| SwarBhaav            | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |       [link](https://swarbhaav.vercel.app/)       |     [link](https://github.com/Archit1706/SwarBhaav)     |
+| Attire AI            | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       |     [link](https://github.com/Archit1706/Attire-AI)     |
+| Reflections          | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    | [link](https://github.com/Archit1706/Reflections-Blogs) |
+| Home Ginie           | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |      [link](https://home-ginie.vercel.app/)       |    [link](https://github.com/Archit1706/Home-Ginie)     |
+| The One Finder       | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |  [link](https://github.com/Archit1706/The-One-Finder)   |
+| Social Vision        | Next.js, Tailwind CSS | MongoDB, Fast API                             | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [link](https://network-analysis-weld.vercel.app/) |   [link](https://github.com/Archit1706/SocialVision)    |
 
 -   Web Projects
 
