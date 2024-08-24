@@ -1,6 +1,6 @@
 ### 👋 Hi there! My name is [Archit Rathod](https://archit-rathod.vercel.app/)
 
--   🧑🏻‍🎓 **BE IT Student** at **University of Mumbai**
+-   🧑🏻‍🎓 **MS CS Student** at **University of Illinois at Chicago**
 -   📚 **Learner**
 -   💻 **Full Stack Developer**
 -   🔍 **Researcher**
