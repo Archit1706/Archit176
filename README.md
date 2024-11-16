@@ -286,6 +286,7 @@
 
 | Web App                 | Front End                              | Back End                              |                          Live Demo                           |                                  Repo                                   |
 | ----------------------- | -------------------------------------- | ------------------------------------- | :----------------------------------------------------------: | :---------------------------------------------------------------------: |
+| Chatzy                  | Next.js, Tailwind CSS, Typescript      | Express.js, Node.js, DiceBear API     |           [link](https://chatzy-4x9n.onrender.com)           |              [link](https://github.com/Archit1706/Chatzy)               |
 | RealEstate360           | Next.js, Tailwind CSS, Grunt, Three.js | MongoDB, Cloudinary, Node.js, FastAPI |          [link](https://realestate360.vercel.app/)           |           [link](https://github.com/Archit1706/RealEstate360)           |
 | Bid Bazaar              | Next.js, Tailwind CSS                  | MongoDB, Cloudinary, Node.js, Flask   |            [link](https://bid-bazaar.vercel.app/)            |          [link](https://github.com/Archit1706/TIAA-Hackathon)           |
 | Coupon Vault            | Next.js, Tailwind CSS                  | MongoDB, Fast API, Node.js            |           [link](https://coupon-vault.vercel.app/)           |           [link](https://github.com/Archit1706/Coupon-Vault)            |
