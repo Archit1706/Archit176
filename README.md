@@ -186,7 +186,7 @@
 
 -   **Devops** : <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img
-            src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png"
+            src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg"
             alt="netlify"
             width="40"
             height="40"
